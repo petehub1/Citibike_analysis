@@ -5,12 +5,19 @@ Citi Bike is New York City's official bike share program, offering residents and
 # Key Questions
 
 • On which days are bike rentals most popular?
+
 • What are the peak times of day for bike rentals?
+
 • Which stations are the most popular for renting bikes?
+
 • Which stations are the top destinations for bike returns?
+
 • What is the average duration of a bike trip?
+
 • Are the majority of users subscribers or casual riders?
+
 • What is the average age of riders?
+
 • Which age groups rent bikes the most frequently?
 
 # Folders
